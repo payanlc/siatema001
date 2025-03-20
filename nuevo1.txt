@@ -1,0 +1,12 @@
+Instalar 
+
+npm install express --save
+npm install bcrypt --save
+npm install body-parser --save
+npm instal connect-multipary --save
+npm install jwt-simple --save
+npm install moment --save
+npm install mongoose --save
+npm install mongoose-pagination --save
+npm install nodemon --save-dev
+ 
